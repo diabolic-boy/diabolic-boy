@@ -1,4 +1,4 @@
-# <p align="center"> Hi 👋, I'm Ashis Bhadvaniya </p>
+# <p align="center"> Hi 👋, I'm Ashish Bhadvaniya </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diabolic-boy&label=Profile%20views&color=0e75b6&style=flat" alt="diabolic-boy" /> </p>
 <img align="right" alt="Coding" width="275" src="https://i.giphy.com/9yRMxLuRqyQ0x3jJXD.gif">
 
